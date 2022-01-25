@@ -1,0 +1,31 @@
+{
+  "name": "BaronCyle",
+  "main": "main.js",
+  "author": "unadornedzero34",
+  "version": "6.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unadornedzero34/BaronCyle"
+  },
+  "description": "My first coding project",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8"
+  },
+  "bugs": {
+    "url": "https://github.com/unadornedzero34/BaronCyle/issues"
+  },
+  "homepage": "https://github.com/unadornedzero34/BaronCyle#readme",
+  "devDependencies": {
+    "node": "^16.10.0"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
