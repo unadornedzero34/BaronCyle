@@ -1,0 +1,5 @@
+run = "node_modules/.bin/node index.js"
+
+# Only Use this if you are using Riplit
+
+# COPY AND PASTE THIS INTO THE DEFALT .riplit FILE THAT RIPLIT GIVES YOUR CODE. ONLY DO THIS AFTER YOU HAVE SUCCESSFULLY CONFIGURED WHAT YOU WANT YOUR RUN BUTTON TO DO
